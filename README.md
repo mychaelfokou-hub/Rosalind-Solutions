@@ -3,14 +3,13 @@
 Questo repository contiene le mie soluzioni personali ai problemi di bioinformatica e programmazione della piattaforma [Rosalind](https://rosalind.info/).
 
 [![Rosalind Profile](https://img.shields.io/badge/Rosalind-Profile-blue?style=flat-square&logo=dna)](https://rosalind.info/users/mychaelfokou-hub/)
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=flat-square&logo=python)](https://www.python.org/)
 
 ---
 
-## 📌 Panoramica
+## 📌 Obiettivo 
 
-- **Linguaggio principale:** Python 3
-- **Librerie utilizzate:** Standard library (`collections`, `itertools`), `Biopython` (se consentito/necessario)
-- **Obiettivo:** Approfondire algoritmi per la genomica computazionale, trascrittomica e filogenesi, mantenendo un codice leggibile ed efficiente.
+Approfondire algoritmi per la genomica computazionale, trascrittomica e filogenesi, mantenendo un codice leggibile ed efficiente.
 
 ---
 
