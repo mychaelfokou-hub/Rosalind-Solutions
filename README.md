@@ -1,38 +1,37 @@
 # Rosalind Solutions 🧬
 
-Questo repository contiene le mie soluzioni personali ai problemi di bioinformatica e programmazione della piattaforma [Rosalind]([https://rosalind.info/](https://img.shields.io/badge/Rosalind-Profile-blue?style=flat-square&logo=dna)](https://rosalind.info/users/mychaelfokou-hub/))
+This repository contains my personal solutions to bioinformatics and programming challenges from the [Rosalind](https://rosalind.info/) platform.
 
 [![Rosalind Profile](https://img.shields.io/badge/Rosalind-Profile-blue?style=flat-square&logo=dna)](https://rosalind.info/users/mychaelfokou-hub/)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=flat-square&logo=python)](https://www.python.org/)
 
+---
+
+## 📂 Repository Structure
+
+The files are organized by topic track and identified by their official Rosalind problem ID:
 
 ---
 
-## 📂 Struttura del Repository
-
-I file sono organizzati per traccia tematica e identificati tramite il codice ufficiale del problema su Rosalind:
-
----
-
-## 📊 Tabella dei Progressi
+## 📊 Progress Table
 
 ### Bioinformatics Stronghold
 
-| ID | Titolo del Problema | Soluzione | Concetti Chiave / Algoritmo |
+| ID | Problem Title | Solution | Key Concepts / Algorithm |
 | :--- | :--- | :---: | :--- |
-| **DNA** | *In corso...* | | | 
-| **RNA** | *In corso...* | | | 
-| **REVC** | *In corso...* | | | 
-| **FIB** | *In corso...* | | | 
-| **GC** | *In corso...* | | | 
+| **DNA** | *In progress...* | | |
+| **RNA** | *In progress...* | | |
+| **REVC** | *In progress...* | | |
+| **FIB** | *In progress...* | | |
+| **GC** | *In progress...* | | |
 
 ---
 
-## ⚙️ Come Eseguire gli Script
+## ⚙️ How to Run the Scripts
 
 ```bash
 
-git clone [https://github.com/mychaelfokou-hub/rosalind-solutions.git](https://github.com/mychaelfokou-hub/rosalind-solutions.git)
+git clone https://github.com/mychaelfokou-hub/rosalind-solutions.git
 cd rosalind-solutions
 pip install -r requirements.txt # attualmente non ci sono requisiti
 
@@ -42,4 +41,5 @@ pip install -r requirements.txt # attualmente non ci sono requisiti
 
 ## ⚖️ Academic Integrity & Disclaimer
 
-Le soluzioni qui presenti sono intese esclusivamente a scopo didattico, di studio e di archivio personale. Se stai partecipando attivamente alle sfide su Rosalind, ti incoraggio a risolvere i problemi in autonomia prima di consultare il codice.
+The solutions provided here are intended strictly for educational, study, and personal archival purposes. If you are actively taking on Rosalind challenges, I encourage you to solve the problems independently before consulting this code.
+
