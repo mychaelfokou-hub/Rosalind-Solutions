@@ -30,16 +30,11 @@ I file sono organizzati per traccia tematica e identificati tramite il codice uf
 
 ## ⚙️ Come Eseguire gli Script
 
-1. **Clona il repository:**
-   ```bash
-   git clone [https://github.com/mychaelfokou-hub/rosalind-solutions.git](https://github.com/mychaelfokou-hub/rosalind-solutions.git)
-   cd rosalind-solutions
-
-```
-
-2. **Installa i requisiti (attualmente non ce ne sono):**
 ```bash
-pip install -r requirements.txt
+
+git clone [https://github.com/mychaelfokou-hub/rosalind-solutions.git](https://github.com/mychaelfokou-hub/rosalind-solutions.git)
+cd rosalind-solutions
+pip install -r requirements.txt # attualmente non ci sono requisiti
 
 ```
 
