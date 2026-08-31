@@ -1,4 +1,4 @@
-# Rosalind Solutions 🧬
+# Rosalind Solutions (Stronghold + Armory) 🧬
 
 This repository contains my personal solutions to bioinformatics and programming challenges from the [Rosalind](https://rosalind.info/users/mychaelfokou-hub/) platform.
 
@@ -19,6 +19,16 @@ The files are organized by topic track and identified by their official Rosalind
 | **REVC** | *In progress...* | | |
 | **FIB** | *In progress...* | | |
 | **GC** | *In progress...* | | |
+
+### Bioinformatics Armory
+
+| ID | Problem Title | Solution | Key Concepts / Algorithm |
+| :--- | :--- | :---: | :--- |
+| *In progress...* | | | |
+| *In progress...* | | | |
+| *In progress...* | | | |
+| *In progress...* | | | |
+| *In progress...* | | | |
 
 ---
 
