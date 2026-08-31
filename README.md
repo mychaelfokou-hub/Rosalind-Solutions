@@ -1,36 +1,16 @@
 # Rosalind Solutions 🧬
 
-Questo repository contiene le mie soluzioni personali ai problemi di bioinformatica e programmazione della piattaforma [Rosalind](https://rosalind.info/).
+Questo repository contiene le mie soluzioni personali ai problemi di bioinformatica e programmazione della piattaforma [Rosalind]([https://rosalind.info/](https://img.shields.io/badge/Rosalind-Profile-blue?style=flat-square&logo=dna)](https://rosalind.info/users/mychaelfokou-hub/))
 
 [![Rosalind Profile](https://img.shields.io/badge/Rosalind-Profile-blue?style=flat-square&logo=dna)](https://rosalind.info/users/mychaelfokou-hub/)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=flat-square&logo=python)](https://www.python.org/)
 
----
-
-## 📌 Obiettivo 
-
-Approfondire algoritmi per la genomica computazionale, trascrittomica e filogenesi, mantenendo un codice leggibile ed efficiente.
 
 ---
 
 ## 📂 Struttura del Repository
 
 I file sono organizzati per traccia tematica e identificati tramite il codice ufficiale del problema su Rosalind:
-
-```text
-.
-├── bioinformatics-stronghold/
-│   ├── dna.py          # Counting DNA Nucleotides
-│   ├── rna.py          # Transcribing DNA into RNA
-│   ├── revc.py         # Complementing a Strand of DNA
-│   └── fib.py          # Rabbits and Recurrence Relations
-├── python-village/
-│   ├── ini1.py         # Installing Python
-│   └── ini2.py         # Variables and Some Arithmetic
-├── requirements.txt
-└── README.md
-
-```
 
 ---
 
@@ -40,18 +20,11 @@ I file sono organizzati per traccia tematica e identificati tramite il codice uf
 
 | ID | Titolo del Problema | Soluzione | Concetti Chiave / Algoritmo |
 | :--- | :--- | :---: | :--- |
-| **DNA** | Counting DNA Nucleotides | [dna.py](./bioinformatics-stronghold/dna.py) | Conteggio frequenze, String manipulation |
-| **RNA** | Transcribing DNA into RNA | [rna.py](./bioinformatics-stronghold/rna.py) | String replacement |
-| **REVC** | Complementing a Strand of DNA | [revc.py](./bioinformatics-stronghold/revc.py) | Reverse complement, Hash mapping |
-| **FIB** | Rabbits and Recurrence Relations | [fib.py](./bioinformatics-stronghold/fib.py) | Dynamic Programming, Fibonacci |
-| **GC** | Computing GC Content | [gc.py](./bioinformatics-stronghold/gc.py) | FASTA parsing, Percentuali |
-
-### Python Village
-
-| ID | Titolo del Problema | Soluzione | Note |
-| :--- | :--- | :---: | :--- |
-| **INI1** | Installing Python | [ini1.py](./python-village/ini1.py) | Setup ambiente |
-| **INI2** | Variables and Some Arithmetic | [ini2.py](./python-village/ini2.py) | Operazioni matematiche base |
+| **DNA** | *In corso...* | | | 
+| **RNA** | *In corso...* | | | 
+| **REVC** | *In corso...* | | | 
+| **FIB** | *In corso...* | | | 
+| **GC** | *In corso...* | | | 
 
 ---
 
@@ -64,22 +37,11 @@ I file sono organizzati per traccia tematica e identificati tramite il codice uf
 
 ```
 
-
-2. **(Opzionale) Installa i requisiti:**
+2. **Installa i requisiti (attualmente non ce ne sono):**
 ```bash
 pip install -r requirements.txt
 
 ```
-
-
-3. **Esegui uno script con il file di input scaricato:**
-```bash
-python bioinformatics-stronghold/dna.py < rosalind_dna.txt
-pip install -r requirements.txt (correntemente non necessario)
-python bioinformatics-stronghold/dna.py < rosalind_dna.txt
-```
-
-
 
 ---
 
