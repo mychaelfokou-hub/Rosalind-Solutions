@@ -1,6 +1,6 @@
 # Rosalind Solutions 🧬
 
-This repository contains my personal solutions to bioinformatics and programming challenges from the [Rosalind](https://rosalind.info/) platform.
+This repository contains my personal solutions to bioinformatics and programming challenges from the [Rosalind](https://rosalind.info/users/mychaelfokou-hub/) platform.
 
 [![Rosalind Profile](https://img.shields.io/badge/Rosalind-Profile-blue?style=flat-square&logo=dna)](https://rosalind.info/users/mychaelfokou-hub/)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=flat-square&logo=python)](https://www.python.org/)
