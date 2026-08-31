@@ -7,13 +7,8 @@ This repository contains my personal solutions to bioinformatics and programming
 
 ---
 
-## 📂 Repository Structure
-
-The files are organized by topic track and identified by their official Rosalind problem ID:
-
----
-
 ## 📊 Progress Table
+The files are organized by topic track and identified by their official Rosalind problem ID:
 
 ### Bioinformatics Stronghold
 
@@ -33,7 +28,7 @@ The files are organized by topic track and identified by their official Rosalind
 
 git clone https://github.com/mychaelfokou-hub/rosalind-solutions.git
 cd rosalind-solutions
-pip install -r requirements.txt # attualmente non ci sono requisiti
+pip install -r requirements.txt # currently no dependencies needed
 
 ```
 
