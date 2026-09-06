@@ -21,3 +21,4 @@ Thumbs.db
 # Dataset e file di output temporanei
 data/
 *.log
+*.egg-info/
